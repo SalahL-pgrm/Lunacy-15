@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SalahL
-- 👀 I’m interested in programming, game dev, music, and other stuff 
+- 👀 I’m interested in 
 - 🌱 I’m currently learning python and c#
-- 💞️ I’m looking to collaborate on literally anything 
-- 📫 How to reach me idk
+- 💞️ I’m looking to collaborate on
+- 📫 How to reach me
 
 <!---
 Lunacy-15/Lunacy-15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
