@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lunacy-15
+- 👋 Hi, I’m @SalahL
 - 👀 I’m interested in programming, game dev, music, and other stuff 
 - 🌱 I’m currently learning python and c#
 - 💞️ I’m looking to collaborate on literally anything 
